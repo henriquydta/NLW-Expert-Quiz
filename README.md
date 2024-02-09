@@ -11,7 +11,7 @@ Um site simples que tem um quiz sobre The Legend of Zelda: Breath of The Wild e 
 O projeto foi desenvolvido no evento NLW Expert da [Rocketseat](https://www.rocketseat.com.br), na trilha HTML + CSS + JS.
 
 ## Status
-Completo - 01/2024
+Completo - 02/2024
 
 ## Link do site
 https://henryzitos.github.io/NLW-Expert-Quiz/
