@@ -1,6 +1,6 @@
 # NLW-Expert-Quiz
 
-**Projeto de um site simples de um Quiz sobre The Legend of Zelda: Breath of The Wild - 2024**
+**Site simples de um Quiz desenvolvido com a Rocketseat no evento NLW Expert - 2024**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
