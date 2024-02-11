@@ -1,20 +1,21 @@
 # NLW-Expert-Quiz
 
-**Site simples de um Quiz desenvolvido com a Rocketseat no evento NLW Expert - 2024**
+**Site com um sistema de Notas desenvolvido com a Rocketseat no evento NLW Expert - 2024**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Descrição
-Um site simples que tem um quiz sobre The Legend of Zelda: Breath of The Wild e conta a quantidade de acertos do usuário.
-O projeto foi desenvolvido no evento NLW Expert da [Rocketseat](https://www.rocketseat.com.br), na trilha HTML + CSS + JS.
+Um site simples que contém um sistema de notas, que podem ser tanto digitadas quanto faladas.
+O projeto foi desenvolvido no evento NLW Expert da [Rocketseat](https://www.rocketseat.com.br), na trilha React.
 
 ## Status
 Completo - 02/2024
 
 ## Link do site
-https://henryzitos.github.io/NLW-Expert-Quiz/
+Aguarde um pouco...
 
 ## Ferramentas usadas
 Essas são as ferramentas usadas para gerenciamento do projeto.
