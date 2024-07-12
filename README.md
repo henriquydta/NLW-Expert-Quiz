@@ -14,7 +14,7 @@ O projeto foi desenvolvido no evento NLW Expert da [Rocketseat](https://www.rock
 Completo - 02/2024
 
 ## Link do site
-https://henryzitos.github.io/NLW-Expert-Quiz/
+https://henriquydta.github.io/NLW-Expert-Quiz/
 
 ## Ferramentas usadas
 Essas são as ferramentas usadas para gerenciamento do projeto.
